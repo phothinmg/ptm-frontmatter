@@ -1,5 +1,4 @@
 node_modules
 package-lock.json
 .npmignore
-a.js
-index.md
+lib

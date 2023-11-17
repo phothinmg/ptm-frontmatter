@@ -5,8 +5,12 @@
   "main": "src/index.js",
   "types": "./src/index.d.ts",
   "type": "module",
-  "author": "htanaung",
+  "author": "ptm",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phothinmg/ptm-frontmatter.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.23.3",
     "@babel/preset-env": "^7.23.3",
